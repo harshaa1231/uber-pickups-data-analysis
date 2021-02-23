@@ -4,4 +4,4 @@ In this notebook, I analyzed the Uber pickups in New York from April to Septembe
 ### Data source:
 The dataset is taken from [kaggle.](https://www.kaggle.com/fivethirtyeight/uber-pickups-in-new-york-city)
 
-Also you can see this [notebook](https://www.kaggle.com/nileshsuryavanshi/uber-pickups-data-analysis) on kaggle.
+Also you can see this [notebook](https://www.kaggle.com/nileshsuryavanshi/uber-pickups-data-analysis) on kaggle and can see my blog about this analysis on [medium](https://nileshsuryavanshi395.medium.com/a-simple-analysis-of-uber-pickups-5276a10ec531).
